@@ -1,8 +1,12 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: About
+layout: page
+icon: fas fa-user
+order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, I'm Vamsi — a software engineer and data science enthusiast currently pursuing my Master's at the University of Arizona.
+
+I’m passionate about solving problems, building automation tools, and documenting everything I learn.
+
+
