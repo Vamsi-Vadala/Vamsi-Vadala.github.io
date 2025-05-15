@@ -12,3 +12,7 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
+
+gem "jekyll", "~> 4.3.2"
+
+gem "webrick" # needed to run the local server on Ruby 3.x
