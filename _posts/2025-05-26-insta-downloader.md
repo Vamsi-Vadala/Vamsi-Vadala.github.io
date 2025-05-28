@@ -32,7 +32,7 @@ I had 3 goals:
   - single URL input
   - uploading a `.txt` file with multiple saved post URLs (playlist-style)
 
-A breif explanation and architecture breakdown is provided here 
+A breif explanation and architecture breakdown is provided here [Detailed Explanation of Insta Downloader Web App](https://vamsi-vadala.github.io/posts/instagram-downloader/)
 
 ---
 
