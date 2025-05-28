@@ -32,6 +32,8 @@ I had 3 goals:
   - single URL input
   - uploading a `.txt` file with multiple saved post URLs (playlist-style)
 
+A breif explanation and architecture breakdown is provided here 
+
 ---
 
 ## 🧪 My First Version (Painful but Progress)
@@ -108,6 +110,6 @@ Cookies help you log in without raising alarms — as powerful as logia fruit ty
 
 This project was fun, frustrating, and full of learning. If you’re looking to automate your saved reels/videos for archiving or just for fun — feel free to clone, use, or improve it.
 
-**🔗 GitHub**: [github.com/your-username/insta-saved-downloader](https://github.com/Vamsi-Vadala/insta-saved-downloader)
+**🔗 GitHub**: [Insta Web Downloader](https://github.com/Vamsi-Vadala/insta-saved-downloader)
 
 Pull requests welcome.
